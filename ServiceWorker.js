@@ -2,7 +2,7 @@ const cacheName = "Your Creator Name-Unreality3D Test Scene-1.0.0";
 const contentToCache = [
     "Build/8b11e7e756a9d3c2a2414019eb49116a.loader.js",
     "Build/179516d939a2b1d5c2c15c35a9d653be.framework.js",
-    "Build/dc9bdfad22bb8f4ecf84609badc3c15b.data",
+    "Build/2edcb4eac0a65d7da34acae650c81066.data",
     "Build/63af4bdee5f169360128d2a4eebe2204.wasm",
     "TemplateData/style.css"
 
